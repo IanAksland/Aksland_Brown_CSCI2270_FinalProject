@@ -19,7 +19,7 @@ As long as you have a program that can run c++, it will work on any opperating s
 
 Group	Members:
 
-Ian Aksland
+Ian Aksland,
 Hartland Brown
 
 Contributors:
